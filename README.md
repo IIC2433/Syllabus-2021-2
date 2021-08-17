@@ -2,6 +2,7 @@
 
 ## Tabla de contenidos
 
+- [Canales](#canales)
 - [Notas](#notas)
 - [Equipo](#equipo)
   - [Profesor](#profesores)
@@ -10,6 +11,10 @@
 - [Política de integridad académica](#política-de-integridad-académica)
 
 ---
+
+## Canales 
+
+Pronto publicaremos información del discord del curso, en donde trabajaremos a partir de la semana del 16. 
 
 ## Notas
 Las notas serán publicadas en [ link por publicar]() y el form de recorreccion lo encuentran [link por publicar]()
