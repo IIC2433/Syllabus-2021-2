@@ -5,7 +5,7 @@
 - [Canales](#canales)
 - [Notas](#notas)
 - [Equipo](#equipo)
-  - [Profesor](#profesores)
+  - [Profesor](#profesor)
   - [Ayudantes](#ayudantes)
 - [Foro](#foro)
 - [Política de integridad académica](#política-de-integridad-académica)
@@ -21,7 +21,7 @@ Las notas serán publicadas en [ link por publicar]() y el form de recorreccion 
 
 ## Equipo
 
-### Profesore
+### Profesor
 
 Nombre              | Sección | Email
 ------------------- | ------- | ---------------------
