@@ -14,7 +14,7 @@
 
 ## Canales 
 
-Pronto publicaremos información del discord del curso, en donde trabajaremos a partir de la semana del 16. 
+Discord del curso: [invitacion](https://discord.gg/zNwD7wCd)
 
 ## Notas
 Las notas serán publicadas en [ link por publicar]() y el form de recorreccion lo encuentran [link por publicar]()
