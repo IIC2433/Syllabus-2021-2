@@ -17,7 +17,7 @@
 Discord del curso: [invitacion](https://discord.gg/zNwD7wCd)
 
 ## Notas
-Todas las notas serán publicadas en [este link](https://docs.google.com/spreadsheets/d/1Z8mTFIPGKnJjidUR6ssCvhmA71wLzoHueGygjQrrMpE/edit?usp=sharing) y el form de recorreccion lo encuentran [link por publicar]()
+Todas las notas serán publicadas en [este link](https://docs.google.com/spreadsheets/d/1Z8mTFIPGKnJjidUR6ssCvhmA71wLzoHueGygjQrrMpE/edit?usp=sharing) y el form de recorreccion lo encuentran [como un google form](https://docs.google.com/forms/d/1LnKZtzUI7zCDGo8YFRGT7dTVlfck-aZykoUqMtQz-pM)
 
 ## Equipo
 
