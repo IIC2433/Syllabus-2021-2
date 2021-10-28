@@ -2,4 +2,4 @@
 
 Esta semana hablamos en general de los problemas de alta dimensionalidad, y sobre reducirla usando PCA. Notebook de compresión cortesía de Adrián Soto. 
 
-Video Clase [por subir](https://drive.google.com/file/d/1sYzZSjsPix6Dp99kIIDjN-vwCwgZbnNC/view?usp=sharing)
+Video Clase [aquí](https://drive.google.com/file/d/1sYzZSjsPix6Dp99kIIDjN-vwCwgZbnNC/view?usp=sharing)
